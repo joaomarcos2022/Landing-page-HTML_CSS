@@ -63,3 +63,9 @@ p{
 img{
     width: 580px;
 }
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
